@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>🎓 Análise e Desenvolvimento de Sistemas</strong><br/>
-  <strong>💻 Front-End Developer</strong><br/>
+  <strong>💻 Full Stack Developer</strong><br/>
   📍 Ananindeua - PA
 </p>
 
@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -38,7 +41,10 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Yrmih&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yrmih&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yrmih&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="left">
