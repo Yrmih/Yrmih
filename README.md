@@ -38,7 +38,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Yrmih&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nohamorim&layout=compact&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yrmih&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="left">
