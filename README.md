@@ -48,10 +48,15 @@
   <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-7F2AFF?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-### 🛠️ Ferramentas e Design
+---
+
+### ☁️ Cloud & Design
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -71,4 +76,4 @@
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil!</p>
+<p align="center">Obrigado por visitar meu perfil!</p>
